@@ -1,0 +1,40 @@
+
+
+Sprint - each sprint takes 5 to 7 weeks and it depends on the size of the project. 
+planning with dev,scrum,dev,tester along with manager. - task ,epic created
+refinement
+test case scenario
+3 amigos
+tc preparation
+defect triage call 
+retrospective
+retrofit3 - 4 week cycle - requirement -10 to 15 req need to deliver 7 to 8 team - continues work
+
+
+dev share the demo - involved devteam testing product owner scrum master
+
+product owner suggestion if any changes needed if ok then everything set
+
+
+JIRA story
+mail story
+word document story
+
+scrum
+product - req gathering from client and grooming meeting set involved whole team and share the demo to all - sprint share
+developer
+tester
+
+JIRA created and assigned to dev story 
+testig team write the test cases
+
+raised the issue if is there
+
+daily standup meeting - 15 to 20 min - scrum master - what you have done yesterday and what are you doing to do today
+
+estimation time asking to dev for finish the task
+
+retrospectve meeting - sprint finished 3 - 4 weeks 
+scrum master arrange meeting last meeting - lagging issue last point(improvement if needed)
+
+backlog - if story not finised then involved as part of next sprint
